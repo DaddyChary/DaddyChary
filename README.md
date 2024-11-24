@@ -23,5 +23,5 @@
 ### 👨‍💻 Mis contribuciones recientes
 
 
-[![Mis contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=DaddyChary)](https://git.io/streak-stats) ![diablo-remove](https://github.com/user-attachments/assets/a22acaa6-610f-4fa9-818c-f22fb8ce0363)
+[![Mis contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=DaddyChary)](https://git.io/streak-stats)![diablo-remove](https://github.com/user-attachments/assets/a22acaa6-610f-4fa9-818c-f22fb8ce0363)
 
