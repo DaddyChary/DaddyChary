@@ -1,4 +1,4 @@
-# 👋 Hola, soy @DaddyChary
+# 👋 Hola, soy DaddyChary
 
 - 👀 Me interesa el **Desarrollo Android**, **Firebase**, **Proyectos de Arduino**, y **Desarrollo Web**.
 - 🌱 Actualmente estoy aprendiendo más sobre **Java para Android**, **Node.js**, y **Machine Learning**.
