@@ -16,6 +16,11 @@
 
 ---
 
+## 🐍 Snake commits:
+<img src="https://raw.githubusercontent.com/prezdev88/prezdev88/output/snake.svg" alt="Snake animation" />
+
+---
+
 ![snorlax](https://github.com/user-attachments/assets/d30527bd-e8ef-4600-bb12-d2bae3c31cfb)
 
 ---
