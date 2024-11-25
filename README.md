@@ -30,8 +30,3 @@
 
 ---
 
-### 👨‍💻 Mis contribuciones recientes
-
-
-[![Mis contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=DaddyChary)](https://git.io/streak-stats)
-
