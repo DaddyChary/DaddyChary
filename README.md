@@ -9,6 +9,11 @@
 ![GitHub Stats](https://img.shields.io/github/stars/DaddyChary?style=social) 
 
 ---
+## ⚙️ Herramientas favoritas
+
+![Tecnologías](https://skillicons.dev/icons?i=vscode,java,androidstudio,git,js,python,nodejs,mysql,linux,windows,gmail,instagram,github,discord)
+
+---
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 GitHub Analytics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 Lenguajes de Programación
 
