@@ -26,7 +26,7 @@
 
 ---
 
-![snorlax](https://github.com/user-attachments/assets/d30527bd-e8ef-4600-bb12-d2bae3c31cfb)
+![YdBN](https://github.com/user-attachments/assets/cdda1ca0-3d01-43b4-9ff1-c48a0a9a5016)
 
 ---
 
