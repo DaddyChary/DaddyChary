@@ -11,7 +11,7 @@
 ---
 ## ⚙️ Herramientas favoritas
 
-![Tecnologías](https://skillicons.dev/icons?i=vscode,java,androidstudio,git,js,python,nodejs,mysql,linux,windows,gmail,instagram,github,discord,react,ts,vite)
+![Tecnologías](https://skillicons.dev/icons?i=vscode,java,androidstudio,git,js,python,nodejs,mysql,linux,windows,gmail,instagram,github,discord,react,ts,vite,next.js,zod,zustand,react query)
 
 ---
 
